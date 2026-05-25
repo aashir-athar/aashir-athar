@@ -25,7 +25,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aashirathar"><img src="https://img.shields.io/badge/LinkedIn-Aashir%20Athar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/aashir-athar"><img src="https://img.shields.io/github/followers/aashir-athar?label=Follow&style=flat-square&color=00D4FF&logo=github" alt="GitHub followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=aashir-athar&label=Profile%20Views&color=00d4ff&style=flat-square&base=2500" alt="Profile visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=aashir-athar&label=Profile%20Views&color=00d4ff&style=flat-square&base=500" alt="Profile visitor counter" />
   <img src="https://img.shields.io/badge/📍 Lahore-Pakistan-A78BFA?style=flat-square" alt="Located in Lahore, Pakistan"/>
   <a href="https://aashir-athar.github.io"><img src="https://img.shields.io/badge/Portfolio-aashir--athar.github.io-A78BFA?style=flat-square&logo=safari&logoColor=white" alt="Portfolio website"/></a>
   <a href="mailto:aashirathar@gmail.com"><img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=flat-square&logo=handshake&logoColor=white" alt="Open to collaboration"/></a>
@@ -130,7 +130,7 @@ philosophy:  "AI-multiplied output, with engineering judgment still in the drive
 
 ### 👀 Profile Insights
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aashir-athar&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge&base=2500" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=aashir-athar&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge&base=500" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/aashir-athar?label=FOLLOWERS&style=for-the-badge&color=A78BFA&logo=github" alt="GitHub Followers"/>
   <img src="https://img.shields.io/github/stars/aashir-athar?label=TOTAL+STARS&style=for-the-badge&color=FFD700&logo=github" alt="Total Stars"/>
   <a href="https://github.com/aashir-athar?tab=repositories"><img src="https://img.shields.io/badge/PUBLIC%20REPOS-19+-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos"/></a>
