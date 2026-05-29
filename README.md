@@ -25,7 +25,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aashirathar"><img src="https://img.shields.io/badge/LinkedIn-Aashir%20Athar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/aashir-athar"><img src="https://img.shields.io/github/followers/aashir-athar?label=Follow&style=flat-square&color=00D4FF&logo=github" alt="GitHub followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=aashir-athar&label=Profile%20Views&color=00d4ff&style=flat-square&base=2500" alt="Profile visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=aashir-athar&label=Profile%20Views&color=00d4ff&style=flat-square&base=500" alt="Profile visitor counter" />
   <img src="https://img.shields.io/badge/📍 Lahore-Pakistan-A78BFA?style=flat-square" alt="Located in Lahore, Pakistan"/>
   <a href="https://aashir-athar.github.io"><img src="https://img.shields.io/badge/Portfolio-aashir--athar.github.io-A78BFA?style=flat-square&logo=safari&logoColor=white" alt="Portfolio website"/></a>
   <a href="mailto:aashirathar@gmail.com"><img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=flat-square&logo=handshake&logoColor=white" alt="Open to collaboration"/></a>
@@ -41,7 +41,7 @@ role:        Senior React Native Engineer 📱
 side_quest:  Open-Source Builder · AI Tinkerer · UI/UX Practitioner 🎨
 location:    Lahore, Pakistan 🇵🇰
 experience:  4+ years shipping production mobile apps to 50,000+ users
-day_job:     Expo SDK 54 · New Architecture · TypeScript strict · Offline-first
+day_job:     Expo SDK 55 · New Architecture · TypeScript strict · Offline-first
 night_job:   On-device AI · Native Kotlin modules · Self-training LLMs
 fuel:        ☕ × engineering judgment²
 philosophy:  "AI-multiplied output, with engineering judgment still in the driver's seat."
@@ -57,8 +57,8 @@ philosophy:  "AI-multiplied output, with engineering judgment still in the drive
   <summary><b>📱 Mobile (the primary focus)</b></summary>
   <br/>
   <p align="center">
-    <img src="https://img.shields.io/badge/React%20Native%200.81+-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-    <img src="https://img.shields.io/badge/Expo%20SDK%2054-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo SDK 54"/>
+    <img src="https://img.shields.io/badge/React%20Native%200.82+-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+    <img src="https://img.shields.io/badge/Expo%20SDK%2055-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo SDK 55"/>
     <img src="https://img.shields.io/badge/New%20Architecture-Fabric%20%2B%20TurboModules-1F6FEB?style=for-the-badge" alt="React Native New Architecture"/>
     <img src="https://img.shields.io/badge/Reanimated%20v4-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native Reanimated v4"/>
     <img src="https://img.shields.io/badge/FlashList%20v2-8C52FF?style=for-the-badge" alt="FlashList v2"/>
@@ -130,30 +130,21 @@ philosophy:  "AI-multiplied output, with engineering judgment still in the drive
 
 ### 👀 Profile Insights
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aashir-athar&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge&base=2500" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=aashir-athar&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge&base=500" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/aashir-athar?label=FOLLOWERS&style=for-the-badge&color=A78BFA&logo=github" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/aashir-athar?label=TOTAL+STARS&style=for-the-badge&color=FFD700&logo=github" alt="Total Stars"/>
   <a href="https://github.com/aashir-athar?tab=repositories"><img src="https://img.shields.io/badge/PUBLIC%20REPOS-19+-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos"/></a>
+  <a href="mailto:aashirathar@gmail.com"><img src="https://img.shields.io/badge/OPEN%20TO%20WORK-2EA043?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Open to Work"/></a>
 </div>
 
 <br/>
 
 <div align="center">
-
-<a href="https://github.com/aashir-athar">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aashir-athar&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=A78BFA&text_color=C9D1D9&ring_color=00D4FF" alt="Aashir Athar GitHub stats"/>
-</a>
-<a href="https://github.com/aashir-athar">
-  <img height="180" src="https://streak-stats.demolab.com/?user=aashir-athar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=A78BFA&fire=A78BFA&currStreakLabel=00D4FF" alt="Aashir Athar GitHub streak stats"/>
-</a>
-
-<a href="https://github.com/aashir-athar">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashir-athar&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=10" alt="Top languages used by Aashir Athar"/>
-</a>
-
+  <a href="https://github.com/aashir-athar">
+    <img height="200" src="https://streak-stats.demolab.com/?user=aashir-athar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=A78BFA&fire=A78BFA&currStreakLabel=00D4FF" alt="Aashir Athar GitHub streak stats"/>
+  </a>
 </div>
 
-### 📇 Profile Summary Cards
+### 📇 At a Glance — Profile Summary
 <div align="center">
   <a href="https://github.com/aashir-athar">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aashir-athar&theme=tokyonight" alt="Aashir Athar profile details"/>
@@ -161,25 +152,18 @@ philosophy:  "AI-multiplied output, with engineering judgment still in the drive
 </div>
 <div align="center">
   <a href="https://github.com/aashir-athar">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aashir-athar&theme=tokyonight" alt="Repos per language" height="180"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aashir-athar&theme=tokyonight" alt="Repos per language" height="175"/>
   </a>
   <a href="https://github.com/aashir-athar">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aashir-athar&theme=tokyonight" alt="Most committed language" height="180"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aashir-athar&theme=tokyonight" alt="Most committed language" height="175"/>
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/aashir-athar">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aashir-athar&theme=tokyonight" alt="GitHub stats summary" height="180"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aashir-athar&theme=tokyonight" alt="GitHub stats summary" height="175"/>
   </a>
   <a href="https://github.com/aashir-athar">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aashir-athar&theme=tokyonight&utcOffset=5" alt="Most productive time (PKT)" height="180"/>
-  </a>
-</div>
-
-### 🏆 Trophy Cabinet
-<div align="center">
-  <a href="https://github.com/aashir-athar">
-    <img src="https://github-profile-trophy.vercel.app/?username=aashir-athar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub achievement trophies for Aashir Athar"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aashir-athar&theme=tokyonight&utcOffset=5" alt="Most productive time (PKT)" height="175"/>
   </a>
 </div>
 
