@@ -24,6 +24,7 @@
 <!-- ============== SOCIAL ROW + VISITORS ============== -->
 <p align="center">
   <a href="https://www.linkedin.com/in/aashirathar"><img src="https://img.shields.io/badge/LinkedIn-Aashir%20Athar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/aashirathar"><img src="https://img.shields.io/badge/X-@aashirathar-000000?style=flat-square&logo=x&logoColor=white" alt="Aashir Athar on X (Twitter)"/></a>
   <a href="https://github.com/aashir-athar"><img src="https://img.shields.io/github/followers/aashir-athar?label=Follow&style=flat-square&color=00D4FF&logo=github" alt="GitHub followers"/></a>
   <img src="https://komarev.com/ghpvc/?username=aashir-athar&label=Profile%20Views&color=00d4ff&style=flat-square&base=500" alt="Profile visitor counter" />
   <img src="https://img.shields.io/badge/📍 Lahore-Pakistan-A78BFA?style=flat-square" alt="Located in Lahore, Pakistan"/>
@@ -132,7 +133,7 @@ philosophy:  "AI-multiplied output, with engineering judgment still in the drive
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aashir-athar&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge&base=500" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/aashir-athar?label=FOLLOWERS&style=for-the-badge&color=A78BFA&logo=github" alt="GitHub Followers"/>
-  <a href="https://github.com/aashir-athar?tab=repositories"><img src="https://img.shields.io/badge/PUBLIC%20REPOS-19+-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos"/></a>
+  <a href="https://github.com/aashir-athar?tab=repositories"><img src="https://img.shields.io/badge/PUBLIC%20REPOS-20+-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos"/></a>
   <a href="mailto:aashirathar@gmail.com"><img src="https://img.shields.io/badge/OPEN%20TO%20WORK-2EA043?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Open to Work"/></a>
 </div>
 
@@ -314,10 +315,40 @@ Vehicle management — fuel consumption, efficiency calculations, service histor
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎧 [Crate](https://github.com/aashir-athar/crate)
+![Expo SDK 56](https://img.shields.io/badge/-Expo%20SDK%2056-000020?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Offline-First](https://img.shields.io/badge/-Offline--First-2E7D32?style=flat-square)
+
+Offline-first music player for **Creative Commons & public-domain** music (Jamendo · Internet Archive · Audius). Paste a link, download legally at best quality, play fully offline with background + lock-screen controls. License-gated by design.
+
+```
+🎵 Paste-link import → ⬇️ legal downloads → 📴 truly offline
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 [MiND-Shot](https://github.com/aashir-athar/MiND-Shot)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Zero Deps](https://img.shields.io/badge/-Zero%20Deps-00D4FF?style=flat-square)
+
+Autonomous crypto signal engine on **free GitHub Actions cron** — polls Kraken, runs a self-learning ML ensemble (Bayes · kNN · logistic · Q-learning) on BTC/ETH, ships Telegram alerts. Honest 52–62% out-of-sample accuracy, pure stdlib.
+
+```
+📡 1-min cron → 🧠 self-learning ML → 📨 Telegram alerts
+```
+
+</td>
+</tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/aashir-athar?tab=repositories"><img src="https://img.shields.io/badge/▶️%20See%20all%2019%2B%20repos-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories"/></a>
+  <a href="https://github.com/aashir-athar?tab=repositories"><img src="https://img.shields.io/badge/▶️%20See%20all%2020%2B%20repos-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories"/></a>
   <a href="https://aashir-athar.github.io"><img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-A78BFA?style=for-the-badge&logo=safari&logoColor=white" alt="Visit portfolio"/></a>
 </p>
 
@@ -380,6 +411,7 @@ A purpose-built environment — tailored Claude agents, skill packs, prompt libr
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aashirathar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aashir Athar on LinkedIn"/></a>
+  <a href="https://x.com/aashirathar"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Aashir Athar on X (Twitter)"/></a>
   <a href="https://github.com/aashir-athar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Aashir Athar on GitHub"/></a>
   <a href="https://aashir-athar.github.io"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio Website"/></a>
   <a href="mailto:aashirathar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Aashir"/></a>
@@ -414,6 +446,7 @@ TensorFlow Lite Mobile, On-Device AI, MobileNetV2, Edge ML,
 Node.js Express MongoDB Supabase PostGIS, Clerk Auth,
 xMind Social Platform, BludStack Blood Donor App, FlowMoney Fintech,
 Forest Sentry WWF Pakistan, MindeesAI Self-Training LLM,
+Crate Offline Music Player, MiND-Shot Crypto Signal Engine,
 AI-Augmented Development, Claude Code, Custom Agents, Skill Packs,
 TypeScript Strict Mode, Senior Mobile Engineer 50000 Users,
 Cross-Platform Mobile Architect, Open Source Mobile Developer
